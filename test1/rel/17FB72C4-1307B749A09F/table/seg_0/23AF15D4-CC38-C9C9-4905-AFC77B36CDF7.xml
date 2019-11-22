@@ -42,5 +42,15 @@
 <ownDataTypeParameters>60,,</ownDataTypeParameters>
 <autoIncrementCycle>false</autoIncrementCycle>
 </Column>
+<Column name="Column_4_from_laptop" id="B30D4327-D254-F0A0-2D08-9F16E3D70DF6">
+<createdBy>SIVJAYAR</createdBy>
+<createdTime>2019-11-22 10:44:16 UTC</createdTime>
+<ownerDesignName>test1</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
 </columns>
 </Table>
