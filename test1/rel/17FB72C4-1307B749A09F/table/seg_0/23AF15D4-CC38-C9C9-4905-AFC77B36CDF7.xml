@@ -30,7 +30,7 @@
 <ownDataTypeParameters>50,,</ownDataTypeParameters>
 <autoIncrementCycle>false</autoIncrementCycle>
 </Column>
-<Column name="new_col_from_my_laptop" id="84EF537A-CF2A-4A92-E350-11E8547993D6">
+<Column name="new_col_from_1_my_laptop" id="84EF537A-CF2A-4A92-E350-11E8547993D6">
 <createdBy>SIVJAYAR</createdBy>
 <createdTime>2019-11-22 10:11:54 UTC</createdTime>
 <ownerDesignName>test1</ownerDesignName>
